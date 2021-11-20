@@ -1,3 +1,3 @@
-# taro-plugin-template
+# taro-plugin-generate
 
-taro 2.x插件模版。
+taro 2.x 文件模板生成插件。
